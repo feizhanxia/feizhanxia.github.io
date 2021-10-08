@@ -4,9 +4,8 @@ This is a personal space prepared for my love, **lxy**. Welcome！
 > *“但愿人长久，千里共婵娟。”*
 
 雷：
-**宝贝生日快乐！**
+**生日快乐！**
 ![](feizhanxia.github.io/images/CFD3BB73-C211-4031-944B-A7990E15DDC7.jpeg)
-
 今天是陪你一起过的第一个生日，接下来的一岁，要开开心心的，不管做什么，我都会一直支持你的！之后的日子，我们也要一起加油，一起成长，一起面对未来，一起迎接任何一种幸福！
 渊
 10.9.2021
