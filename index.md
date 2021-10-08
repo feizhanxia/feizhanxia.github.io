@@ -17,8 +17,8 @@ This is a personal space prepared for my love, **lxy**. Welcome！
 
 *下面是一些日常的照片一起社死hhh*
 
-![](https://github.com/feizhanxia/feizhanxia.github.io/blob/f3a406e0730017d0e607b6a9d4c02da00cb1c9eb/images/2EBEF976-E20B-41AB-A920-BA22A7032FA7.jpeg)
-![](https://github.com/feizhanxia/feizhanxia.github.io/blob/f3a406e0730017d0e607b6a9d4c02da00cb1c9eb/images/8BFEAFAD-7F75-4A80-AB7C-1B13384EA498.jpeg)
-![](https://github.com/feizhanxia/feizhanxia.github.io/blob/f3a406e0730017d0e607b6a9d4c02da00cb1c9eb/images/9B926311-081D-4559-9418-1313E5316D75.jpeg)
-![](https://github.com/feizhanxia/feizhanxia.github.io/blob/f3a406e0730017d0e607b6a9d4c02da00cb1c9eb/images/C56BD8C8-0EF6-4617-8693-9AB91E47F790.jpeg)
-![](https://github.com/feizhanxia/feizhanxia.github.io/blob/f3a406e0730017d0e607b6a9d4c02da00cb1c9eb/images/EA4FE5F1-0425-44F2-B7EA-15B37DB5DB89.jpeg)
+![](feizhanxia.github.io/images/2EBEF976-E20B-41AB-A920-BA22A7032FA7.jpeg)
+![](feizhanxia.github.io/images/8BFEAFAD-7F75-4A80-AB7C-1B13384EA498.jpeg)
+![](feizhanxia.github.io/images/9B926311-081D-4559-9418-1313E5316D75.jpeg)
+![](feizhanxia.github.io/images/C56BD8C8-0EF6-4617-8693-9AB91E47F790.jpeg)
+![](feizhanxia.github.io/images/EA4FE5F1-0425-44F2-B7EA-15B37DB5DB89.jpeg)
